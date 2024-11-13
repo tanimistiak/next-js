@@ -19,6 +19,11 @@ const Navbar = () => {
       title: "Contacts",
       path: "/contacts",
     },
+    ,
+    {
+      title: "Blogs",
+      path: "/blogs",
+    },
   ];
   const router = useRouter();
 
