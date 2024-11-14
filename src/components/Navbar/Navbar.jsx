@@ -24,6 +24,10 @@ const Navbar = () => {
       title: "Blogs",
       path: "/blogs",
     },
+    {
+      title: "Products",
+      path: "/products",
+    },
   ];
   const router = useRouter();
 
